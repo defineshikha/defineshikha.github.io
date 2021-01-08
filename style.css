@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    
+}
+header{ 
+    height: 400px; 
+    background-color: blueviolet;
+    
+}
+header h1{
+    text-align: center;
+    padding: 2%;
+    font-size: 100px;
+}
+textarea{
+    min-height: 
+    200px; 
+    width: 80%;
+}
